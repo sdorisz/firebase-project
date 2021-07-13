@@ -1,0 +1,19 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+.headTitles{
+    border-top: 1px solid black;
+}
+
+.headTitles > th{
+    padding-top: 25px;
+}
+
+.statHeadTitles{
+    border:none;
+    border-bottom: 6px solid black;
+}
+
+.statHeadTitles > th{
+    border-right:none;
+    border-left:none;
+}
